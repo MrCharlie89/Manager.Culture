@@ -22,7 +22,7 @@ namespace Syntra.VDOAP.CProef.Models.Persistence.Data.Seeding
             /// context.Languages.Add(new Language());
             ///  context.Languages.Add(new Language());
             ///  context.Languages.Add(new Language());
-            ///  
+              
 
             context.Languages =new List<Language>()
                 {
